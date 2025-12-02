@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node src/index.js",
-    "...cho \\\"No tests yet\\\"\n  }\n}"
+    "test": "echo \"No tests yet\""
   }
 }
